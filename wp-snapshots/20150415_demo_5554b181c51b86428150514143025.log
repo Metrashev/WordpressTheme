@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2015-05-14 14:32:07
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.12
+WORDPRESS:	4.1.5
+PHP INFO:	5.5.9 | SAPI: apache2handler
+SERVER:		Apache/2.4.7 (Win32) OpenSSL/1.0.1e PHP/5.5.9 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+MEMORY STACK: 22MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP (query limit - 100)
+MYSQLDUMP:    Is Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:19 | filtered:0 | create:19 
+FILTERED: [] 
+SQL CREATED: 20150415_demo_5554b181c51b86428150514143025_database.sql 
+SQL FILE SIZE: 752KB 
+SQL FILE TIME: 2015-05-14 14:32:09 
+SQL RUNTIME: 1.43 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/xampp/htdocs/wordpress-theme 
+ARCHIVE FILE: 20150415_demo_5554b181c51b86428150514143025_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	76.33MB 
+STATS:	Dirs 479 | Files 3,730 | Links 0 
+SQL ADDED: 20150415_demo_5554b181c51b86428150514143025_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4209
+    [filename] => C:\xampp\htdocs\wordpress-theme\wp-snapshots\tmp\20150415_demo_5554b181c51b86428150514143025_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 43.86MB 
+ARCHIVE RUNTIME: 100.49 sec. 
+MEMORY STACK: 23.25MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [C:/xampp/htdocs/wordpress-theme/wp-snapshots/tmp/20150415_demo_5554b181c51b86428150514143025_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 752KB 
+Installer File: 316.85KB 
+Archive File: 43.86MB  
+
+********************************************************************************
+RECORD ID:[4]
+TOTAL PROCESS RUNTIME: 104.97 sec.
+PEAK PHP MEMORY USED: 25.75MB
+DONE PROCESSING => 20150415_demo 2015-05-14 14:33:52
+ 

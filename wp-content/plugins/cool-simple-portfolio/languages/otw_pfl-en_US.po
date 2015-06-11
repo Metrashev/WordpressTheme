@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OTW Portfolio Light v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-07-11 21:26:14+0000\n"
+"Last-Translator: admin <office@onetwoweb.bg>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: cool-simple-portfolio-light.php:26
+#@ hq_csp
+msgid "Portfolio Item"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:27
+#@ hq_csp
+msgid "Add New"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:28
+#@ hq_csp
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:29
+#@ hq_csp
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:30
+#@ hq_csp
+msgid "New Portfolio Item"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:31
+#@ hq_csp
+msgid "View Portfolio Item"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:32
+#@ hq_csp
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:33
+#@ hq_csp
+msgid "No portfolio items found"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:34
+#@ hq_csp
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:35
+#@ hq_csp
+msgid "Parent Portfolio:"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:25
+#: cool-simple-portfolio-light.php:36
+#@ hq_csp
+msgid "OTW Portfolio"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:42
+#@ hq_csp
+msgid "Custom Post Type - Portfolio Pages"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:64
+#: cool-simple-portfolio-light.php:74
+#@ hq_csp
+msgid "Portfolio Categories"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:65
+#@ hq_csp
+msgid "Portfolio Category"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:66
+#@ hq_csp
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:67
+#@ hq_csp
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:68
+#@ hq_csp
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:69
+#@ hq_csp
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:70
+#@ hq_csp
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:71
+#@ hq_csp
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:72
+#@ hq_csp
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:73
+#@ hq_csp
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:97
+#: cool-simple-portfolio-light.php:346
+#: cool-simple-portfolio-light.php:360
+#@ hq_csp
+msgid "Portfolio Settings"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:109
+#@ hq_csp
+msgid "URL"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:110
+#@ hq_csp
+msgid "Enter URL of your clients site e.g. www.google.com (optional)"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:115
+#@ hq_csp
+msgid "Testimonial"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:116
+#@ hq_csp
+msgid "Enter a testimonial from your client to be displayed on the single portfolio page (optional)"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:121
+#@ hq_csp
+msgid "Portfolio Images"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:122
+#@ hq_csp
+msgid "Upload an image or enter an URL to your portfolio image (optional)"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:202
+#: cool-simple-portfolio-light.php:212
+#@ hq_csp
+msgid "Choose Image"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:203
+#: cool-simple-portfolio-light.php:213
+#@ hq_csp
+msgid "Remove"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:215
+#@ hq_csp
+msgid "Add New Image"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:346
+#@ hq_csp
+msgid "Settings"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:365
+#@ hq_csp
+msgid "Portfolio Thumnbail Size (Archive)"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:367
+#: cool-simple-portfolio-light.php:374
+#: cool-simple-portfolio-light.php:381
+#@ hq_csp
+msgid "Width (in px)"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:367
+#@ hq_csp
+msgid "(default is 303)"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:368
+#: cool-simple-portfolio-light.php:375
+#@ hq_csp
+msgid "Height (in px)"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:368
+#@ hq_csp
+msgid "(default is 210)"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:372
+#@ hq_csp
+msgid "Portfolio Image Size (Single)"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:374
+#@ hq_csp
+msgid "(default is 700)"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:375
+#@ hq_csp
+msgid "(default is 400)"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:386
+#@ hq_csp
+msgid "Save Changes"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:517
+#@ hq_csp
+msgid "Pages:"
+msgstr ""
+
+#: templates/cool-simple-portfolio-paginated.php:58
+#: templates/otw-prtfolio-filterable.php:63
+#@ hq_csp
+msgid "Nothing Found"
+msgstr ""
+
+#: templates/cool-simple-portfolio-paginated.php:62
+#: templates/otw-prtfolio-filterable.php:67
+#@ hq_csp
+msgid "Apologies, but no results were found. Perhaps searching will help find a related post."
+msgstr ""
+
+#: templates/cool-simple-portfolio-post.php:47
+#: templates/cool-simple-portfolio-post.php:59
+#@ hq_csp
+msgid "Previous"
+msgstr ""
+
+#: templates/cool-simple-portfolio-post.php:47
+#: templates/cool-simple-portfolio-post.php:59
+#@ hq_csp
+msgid "Next"
+msgstr ""
+
+#: templates/cool-simple-portfolio-post.php:64
+#@ hq_csp
+msgid "Edit Post"
+msgstr ""
+
+#: templates/cool-simple-portfolio-post.php:70
+#@ hq_csp
+msgid "Visit site"
+msgstr ""
+
+#: templates/cool-simple-portfolio-post.php:82
+#@ hq_csp
+msgid "Post navigation"
+msgstr ""
+
+#: templates/cool-simple-portfolio-post.php:83
+#@ hq_csp
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: templates/cool-simple-portfolio-post.php:84
+#@ hq_csp
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: templates/otw-prtfolio-filterable.php:20
+#@ hq_csp
+msgid "All"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:379
+#@ hq_csp
+msgid "otw-row width"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:381
+#@ hq_csp
+msgid "(default is empty)"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:382
+#@ hq_csp
+msgid "If you leave empty this means otw-row will take 100% of your content area. This works well on most themes. If your theme content area does not have fixed width you can set the width of the content here in pixels."
+msgstr ""
+
+#: templates/cool-simple-portfolio-paginated.php:38
+#: templates/otw-prtfolio-filterable.php:41
+#@ hq_csp
+msgid "No Image"
+msgstr ""
+
+#: templates/otw-template-full-width.php:29
+#@ hq_csp
+msgid "Sorry, nothing to display."
+msgstr ""
+
+#: cool-simple-portfolio-light.php:276
+#@ hq_csp
+msgid "Page title setting"
+msgstr ""
+
+#: cool-simple-portfolio-light.php:304
+#@ hq_csp
+msgid "Hide Portfolio Title"
+msgstr ""
+
